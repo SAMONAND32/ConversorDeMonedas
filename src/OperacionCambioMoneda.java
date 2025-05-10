@@ -7,7 +7,7 @@ import java.net.http.HttpResponse;
 public class OperacionCambioMoneda implements VariablesConversion {
     private double cantidadGuardada;
     private final Gson gson = new Gson();
-    private final String API_KEY = "d19e997edac5fda590a5c579";
+    private final String API_KEY = "PON_AQUI_TU_API_KEY";
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/";
 
     @Override
