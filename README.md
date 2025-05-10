@@ -1,9 +1,6 @@
-# ConversorDeMonedas
-ConversorDeMonedas
-
 # Conversor de Monedas en Java 💱
 
-Este proyecto es una aplicación de consola desarrollada en Java que permite realizar conversiones entre diferentes monedas utilizando tasas de cambio actualizadas mediante una API externa. Fue creado con fines **educativos** como parte de mi aprendizaje en programación Java, orientado a objetos y consumo de servicios web (APIs).
+Este proyecto es una aplicación de consola desarrollada en Java que permite realizar conversiones entre diferentes monedas utilizando tasas de cambio actualizadas mediante una API externa. Fue creado con fines **educativos** como parte de mi aprendizaje en programación Java, orientado a objetos con Alura Latam.
 
 ## 🎯 Objetivos del proyecto
 
@@ -50,11 +47,12 @@ Reemplaza el valor de API_KEY en el la clase "OperacionCambioMoneda.java" con tu
 ## 🕘 Ejemplo de historial de conversión
 
 -100.00 [USD] => 86300.00 [ARS] | Fecha y hora: 08-05-2025 16:25:12
+
 -200.00 [JPY] => 1.28 [USD] | Fecha y hora: 08-05-2025 16:27:41
 
 ## 👤 Autor
 
-- **Samuel Hernandez Rodríguez**
+- **Samuel Hernandez Rodríguez** Alumno G8 Alura Latam
 - Estudiante de programación / diseño / desarrollo de software
 
 ---
