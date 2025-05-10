@@ -13,9 +13,11 @@ Este proyecto es una aplicación de consola desarrollada en Java que permite rea
 ## 🧠 Tecnologías y herramientas usadas
 
 - Java 17+
+- **Gson (Google Gson Library)**: para deserializar los datos JSON obtenidos desde la API de tipo de cambio.
 - `java.net.http.HttpClient` para consumo de API
 - `java.time.LocalDateTime` para marca de tiempo
 - `ArrayList` para manejo de historial
+- **Scanner**: para capturar entrada del usuario desde la consola.
 - IDE: IntelliJ IDEA / VS Code
 
 ## 🚀 ¿Cómo usarlo?
@@ -39,10 +41,9 @@ Reemplaza el valor de API_KEY en el la clase "OperacionCambioMoneda.java" con tu
 
 ## 📚 Cursos relacionados
 
-- Fundamentos de Programación en Java
-- Programación Orientada a Objetos (POO)
-- Consumo de APIs REST en Java
-- Proyecto integrador para práctica de estructuras de control y clases
+- Java: aplicando la Orientación a Objetos
+- Java: trabajar con listas y colecciones de datos
+- Java: consumir API, escribir archivos y manejar errores
 
 ## 🕘 Ejemplo de historial de conversión
 
