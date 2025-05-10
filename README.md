@@ -49,8 +49,8 @@ Reemplaza el valor de API_KEY en el la clase "OperacionCambioMoneda.java" con tu
 
 ## 🕘 Ejemplo de historial de conversión
 
-100.00 [USD] => 86300.00 [ARS] | Fecha y hora: 08-05-2025 16:25:12
-200.00 [JPY] => 1.28 [USD] | Fecha y hora: 08-05-2025 16:27:41
+-100.00 [USD] => 86300.00 [ARS] | Fecha y hora: 08-05-2025 16:25:12
+-200.00 [JPY] => 1.28 [USD] | Fecha y hora: 08-05-2025 16:27:41
 
 ## 👤 Autor
 
